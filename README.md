@@ -10,6 +10,8 @@ Our solution is an alarm clock that drives away from you. At night you can set y
 
 The alarm can be set through the web server interface, which allows for a time and song choice setting to be sent to the device. Once it's time for the alarm to ring, the chosen song begins playing and the pathing algorithm will intiiate, causing the alarm device to begin driving away and avoiding any obstacles in it's path. When the robot has finally been caught, deactivating it can be done by pressing the button on the top of the chassis. Once pressed, all movement and audio will stop, and the camera that is attached to the Raspberry Pi will take a picture of the user, and upload this image to Imgur, a media sharing website. A url containing the image will be sent back to the web server to be viewed. 
 
+![alt text](images/pathing.gif)
+
 
 # Component List
 
