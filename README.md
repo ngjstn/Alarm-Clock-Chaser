@@ -4,7 +4,9 @@
 
 Group Members: Julian Wong, Justin Ng, Tayyib Chohan, Sam Dai 
 
+
 # Project Overview
+
 A Lot of people have trouble getting out of bed in the morning and if you claim that you do not immediately snooze or dismiss your alarm, then lay in your bed and contemplate getting out of bed, you are a liar. 
 Our solution is an alarm clock that drives away from you. At night you can set your alarm from the comfort of your bed but in the morning you are forced to get up and chase down the alarm clock ensuring you get out of bed to start your day. 
 
@@ -17,6 +19,7 @@ The alarm can be set through the web server interface, which allows for a time a
 
 | Part                       | Description                                              | Quantity |
 | -------------------------- | -------------------------------------------------------- | -------- | 
+| Raspberry Pi Model 3 B+    | Primary computing device for alarm functionality         | 1        | 
 | HC-SR04                    | Ultrasonic sensor for proximity detection                | 3        | 
 | Pi Camera Rev 1.3          | RPI camera module                                        | 1        | 
 | L298N2                     | DC motor drive controller                                | 1        | 
@@ -36,10 +39,13 @@ The alarm can be set through the web server interface, which allows for a time a
 ![alt text](images/front_chassis.jpg)
 ![alt text](images/top_chassis.jpg)
 
+
 # Block Diagrams 
 
 ![alt text](images/hardware_block.png)
 ![alt text](images/server_block.png) 
+ 
 
 # Fritizing Diagram
+
 ![alt text](images/fritzing.png)
