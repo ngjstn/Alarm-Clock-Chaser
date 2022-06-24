@@ -1,6 +1,6 @@
 # Alarm Clock Chaser 
 
-### CPEN291 Project - 2021W Term 2 
+## CPEN291 Project - 2021W Term 2 
 
 Group Members: Julian Wong, Justin Ng, Tayyib Chohan, Sam Dai 
 
