@@ -1,11 +1,12 @@
 # Alarm Clock Chaser 
 
-## CPEN291 Project - 2021W Term 2 
+### CPEN291 Project - 2021W Term 2 
 
-Group Members: Julian Wong, Justin Ng, Tayyib Chohan, Sam Dai 
+> Group Members: Julian Wong, Justin Ng, Tayyib Chohan, Sam Dai 
+ 
+ ---
 
-
-# Project Overview
+### Project Overview
 
 A Lot of people have trouble getting out of bed in the morning and if you claim that you do not immediately snooze or dismiss your alarm, then lay in your bed and contemplate getting out of bed, you are a liar. 
 Our solution is an alarm clock that drives away from you. At night you can set your alarm from the comfort of your bed but in the morning you are forced to get up and chase down the alarm clock ensuring you get out of bed to start your day. 
@@ -14,8 +15,9 @@ The alarm can be set through the web server interface, which allows for a time a
 
 ![alt text](images/pathing.gif)
 
+---
 
-# Component List
+### Component List
 
 | Part                       | Description                                              | Quantity |
 | -------------------------- | -------------------------------------------------------- | -------- | 
@@ -33,19 +35,22 @@ The alarm can be set through the web server interface, which allows for a time a
 | 1.5V AA Battery            | Power supply for DC motors                               | 4        |
 | 10kOhm Resistor            | Pull down resistor circuit                               | 1        |
 
+---
 
-# Robot Chassis
+### Robot Chassis
 
 ![alt text](images/front_chassis.jpg)
 ![alt text](images/top_chassis.jpg)
 
+---
 
-# Block Diagrams 
+### Block Diagrams 
 
 ![alt text](images/hardware_block.png)
 ![alt text](images/server_block.png) 
  
+ ---
 
-# Fritizing Diagram
+### Fritizing Diagram
 
 ![alt text](images/fritzing.png)
